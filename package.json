@@ -1,0 +1,16 @@
+{
+  "name": "house-elf",
+  "version": "1.0.0",
+  "description": "Chat room managing bot for CSA Amrita Development team.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Arjun V",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "npm": "^6.1.0",
+    "slackbots": "^1.1.0"
+  }
+}
